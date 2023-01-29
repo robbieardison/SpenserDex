@@ -1,0 +1,16 @@
+{
+  "boxes": [
+    {
+      "amount": 500000,
+      "category": "Food",
+      "description": "Boros",
+      "id": 1
+    },
+    {
+      "amount": 30000,
+      "category": "Entertainment",
+      "description": "Nonton",
+      "id": 2
+    }
+  ]
+}
